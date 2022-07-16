@@ -1,0 +1,9 @@
+{
+    "columns": 5,
+    "keys": [
+      {"value": 7}, {"value": 8}, {"value": 9}, {"value": "("}, {"value": ")"},
+      {"value": 4}, {"value": 5}, {"value": 6}, {"value": "+", "className": "operation"}, {"value": "-", "className": "operation"},
+      {"value": 1}, {"value": 2}, {"value": 3}, {"value": "*", "className": "operation"}, {"value": "/", "className": "operation"},
+      {"value": "."}, {"value": 0}, {"value": "C"}, {"value": "=", "className": "enter", "columnSpan":2}
+    ]
+  }

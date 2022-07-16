@@ -1,0 +1,25 @@
+{
+  "columns": 5,
+  "keys": [
+    { "keyEvent": "7", "value": 7}, 
+    { "keyEvent": "8", "value": 8}, 
+    { "keyEvent": "9", "value": 9}, 
+    { "keyEvent": "(", "value": "("}, 
+    { "keyEvent": ")", "value": ")"},
+    { "keyEvent": "4", "value": 4}, 
+    { "keyEvent": "5", "value": 5}, 
+    { "keyEvent": "6", "value": 6}, 
+    { "keyEvent": "+", "value": " + ", "className": "operation"}, 
+    { "keyEvent": "-", "value": " - ", "className": "operation"},
+    { "keyEvent": "1", "value": 1}, 
+    { "keyEvent": "2", "value": 2}, 
+    { "keyEvent": "3", "value": 3}, 
+    { "keyEvent": "*", "value": " * ", "className": "operation"},  
+    { "keyEvent": "Enter", "value": " = ", "className": "enter", "rowSpan":2},
+    { "keyEvent": ".", "value": "."}, 
+    { "keyEvent": "0", "value": 0}, 
+    { "keyEvent": "Escape", "value": "C"}, 
+    { "keyEvent": "/", "value": "/", "className": "operation"},
+    { "keyEvent": "Backspace", "value": "<-", "hidden" : true}
+  ]
+}
