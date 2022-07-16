@@ -1,7 +1,7 @@
 import React, { useEffect } from "react";
 import Key from "./Key";
-import layout from "../assets/basicLayout.json";
-import layout2 from "../assets/basicLayoutV2.json";
+// import layout from "../assets/basicLayout.json";
+// import layout2 from "../assets/basicLayoutV2.json";
 import layout3 from "../assets/basicLayoutV3.json";
 
 
